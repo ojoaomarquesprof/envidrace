@@ -325,7 +325,7 @@ export default function EnvidraceLanding() {
             height={40} 
             className="object-contain opacity-40 hover:opacity-100 transition duration-300 mix-blend-screen grayscale invert" 
           />
-          <p>© {new Date().getFullYear()} Envidrace. Todos os direitos reservados.</p>
+          <p>© {new Date().getFullYear()} Envidrace. Todos os direitos reservados. Desenvolvido por Sonus Prime Agencia</p>
         </div>
       </footer>
 
